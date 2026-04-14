@@ -1,0 +1,39 @@
+# Build
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# App — config do usuario (nao commitar)
+config.json
+
+# Cache de modelos (Whisper / HuggingFace)
+.cache/
+models/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Env
+.env
+venv/
+.venv/
+env/
+
+.claude/

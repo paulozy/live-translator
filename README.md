@@ -1,3 +1,5 @@
+olá paulo, estou editando do codex
+
 # Live Translator
 
 Captura áudio do sistema (lives, vídeos, chamadas) e transcreve + traduz em tempo real usando Whisper local.
